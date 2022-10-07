@@ -1,1 +1,2 @@
 # DataScienceCourseKNU
+READ ME PLZ
